@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-11-14">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="JYT" label="JYT" />
+      <node id="JLG" label="JLG" />
+      <node id="JDI" label="JDI" />
+      <node id="HCX" label="HCX" />
+      <node id="HDS" label="HDS" />
+      <node id="PING" label="PING" />
+      <node id="XGD" label="XGD" />
+      <node id="XLF" label="XLF" />
+      <node id="ECP" label="ECP" />
+      <node id="DFC" label="DFC" />
+      <node id="ZDO" label="ZDO" />
+      <node id="XCF" label="XCF" />
+      <node id="CIB" label="CIB" />
+      <node id="HJC" label="HJC" />
+      <node id="CLC" label="CLC" />
+      <node id="NJB" label="NJB" />
+      <node id="GJS" label="GJS" />
+      <node id="AJG" label="AJG" />
+      <node id="SGXA" label="SGXA" />
+      <node id="COC" label="COC" />
+      <node id="GHS" label="GHS" />
+      <node id="MWC" label="MWC" />
+      <node id="PAB" label="PAB" />
+      <node id="YTG" label="YTG" />
+      <node id="CYS" label="CYS" />
+      <node id="GIC" label="GIC" />
+      <node id="YXC" label="YXC" />
+      <node id="CMB" label="CMB" />
+      <node id="HXG" label="HXG" />
+      <node id="XYR" label="XYR" />
+      <node id="TPAC" label="TPAC" />
+      <node id="SWZ" label="SWZ" />
+      <node id="DBS" label="DBS" />
+      <node id="SPDB" label="SPDB" />
+      <node id="CMBC" label="CMBC" />
+      <node id="GFS" label="GFS" />
+      <node id="HXB" label="HXB" />
+      <node id="GYS" label="GYS" />
+      <node id="BJB" label="BJB" />
+      <node id="BOCOM" label="BOCOM" />
+      <node id="NBB" label="NBB" />
+      <node id="ABC" label="ABC" />
+      <node id="CITICS" label="CITICS" />
+      <node id="CSC" label="CSC" />
+      <node id="SXZ" label="SXZ" />
+    </nodes>
+    <edges>
+      <edge source="JYT" target="AJG" id="0" weight="0.49" />
+      <edge source="JYT" target="SXZ" id="1" weight="0.17" />
+      <edge source="JYT" target="HXG" id="2" weight="0.22" />
+      <edge source="JLG" target="SWZ" id="3" weight="0.06" />
+      <edge source="JLG" target="SXZ" id="4" weight="0.08" />
+      <edge source="JLG" target="CSC" id="5" weight="0.06" />
+      <edge source="JDI" target="CLC" id="6" weight="1.66" />
+      <edge source="JDI" target="HJC" id="7" weight="1.3" />
+      <edge source="JDI" target="XYR" id="8" weight="0.97" />
+      <edge source="HCX" target="SXZ" id="9" weight="0.27" />
+      <edge source="HCX" target="TPAC" id="10" weight="0.26" />
+      <edge source="HCX" target="GJS" id="11" weight="0.22" />
+      <edge source="HDS" target="XYR" id="12" weight="1.2" />
+      <edge source="HDS" target="SXZ" id="13" weight="0.8" />
+      <edge source="HDS" target="AJG" id="14" weight="0.95" />
+      <edge source="PING" target="ABC" id="15" weight="0.01" />
+      <edge source="PING" target="BOCOM" id="16" weight="0.21" />
+      <edge source="PING" target="NBB" id="17" weight="0.08" />
+      <edge source="XGD" target="HXG" id="18" weight="0.62" />
+      <edge source="XGD" target="SXZ" id="19" weight="0.41" />
+      <edge source="XGD" target="YXC" id="20" weight="0.17" />
+      <edge source="XLF" target="CSC" id="21" weight="0.95" />
+      <edge source="XLF" target="SXZ" id="22" weight="0.98" />
+      <edge source="XLF" target="GFS" id="23" weight="0.8" />
+      <edge source="ECP" target="GYS" id="24" weight="1.01" />
+      <edge source="ECP" target="SXZ" id="25" weight="1.07" />
+      <edge source="ECP" target="GIC" id="26" weight="0.57" />
+      <edge source="DFC" target="CITICS" id="27" weight="0.97" />
+      <edge source="DFC" target="XYR" id="28" weight="0.57" />
+      <edge source="DFC" target="HXG" id="29" weight="1.05" />
+      <edge source="ZDO" target="XYR" id="30" weight="1.46" />
+      <edge source="ZDO" target="HJC" id="31" weight="2.0" />
+      <edge source="ZDO" target="YTG" id="32" weight="0.97" />
+      <edge source="XCF" target="XYR" id="33" weight="2.11" />
+      <edge source="XCF" target="CITICS" id="34" weight="0.74" />
+      <edge source="XCF" target="YTG" id="35" weight="0.9" />
+      <edge source="CIB" target="PAB" id="36" weight="1.74" />
+      <edge source="CIB" target="BOCOM" id="37" weight="1.34" />
+      <edge source="CIB" target="CMBC" id="38" weight="1.74" />
+      <edge source="HJC" target="XYR" id="39" weight="2.36" />
+      <edge source="HJC" target="YTG" id="40" weight="1.59" />
+      <edge source="HJC" target="CLC" id="41" weight="1.81" />
+      <edge source="CLC" target="MWC" id="42" weight="3.45" />
+      <edge source="CLC" target="COC" id="43" weight="3.28" />
+      <edge source="CLC" target="YTG" id="44" weight="2.25" />
+      <edge source="CLC" target="XYR" id="45" weight="2.61" />
+      <edge source="NJB" target="NBB" id="46" weight="2.49" />
+      <edge source="NJB" target="BJB" id="47" weight="2.01" />
+      <edge source="NJB" target="SXZ" id="48" weight="1.12" />
+      <edge source="NJB" target="YXC" id="49" weight="0.81" />
+      <edge source="NJB" target="BOCOM" id="50" weight="1.97" />
+      <edge source="NJB" target="CITICS" id="51" weight="0.88" />
+      <edge source="GJS" target="SXZ" id="52" weight="3.6" />
+      <edge source="GJS" target="CITICS" id="53" weight="3.29" />
+      <edge source="GJS" target="SWZ" id="54" weight="2.77" />
+      <edge source="GJS" target="TPAC" id="55" weight="2.74" />
+      <edge source="AJG" target="XYR" id="56" weight="3.11" />
+      <edge source="AJG" target="SXZ" id="57" weight="2.58" />
+      <edge source="AJG" target="HXG" id="58" weight="2.93" />
+      <edge source="SGXA" target="MWC" id="59" weight="0.54" />
+      <edge source="SGXA" target="SXZ" id="60" weight="2.01" />
+      <edge source="SGXA" target="XYR" id="61" weight="1.8" />
+      <edge source="COC" target="SXZ" id="62" weight="1.58" />
+      <edge source="COC" target="MWC" id="63" weight="3.11" />
+      <edge source="COC" target="YTG" id="64" weight="1.64" />
+      <edge source="GHS" target="SXZ" id="65" weight="2.02" />
+      <edge source="GHS" target="CITICS" id="66" weight="1.72" />
+      <edge source="GHS" target="TPAC" id="67" weight="1.94" />
+      <edge source="GHS" target="YTG" id="68" weight="1.01" />
+      <edge source="MWC" target="XYR" id="69" weight="1.97" />
+      <edge source="MWC" target="SXZ" id="70" weight="2.23" />
+      <edge source="PAB" target="CMB" id="71" weight="3.54" />
+      <edge source="PAB" target="CMBC" id="72" weight="3.64" />
+      <edge source="PAB" target="BOCOM" id="73" weight="3.15" />
+      <edge source="YTG" target="SXZ" id="74" weight="3.39" />
+      <edge source="YTG" target="XYR" id="75" weight="3.65" />
+      <edge source="YTG" target="CITICS" id="76" weight="2.74" />
+      <edge source="CYS" target="SXZ" id="77" weight="2.48" />
+      <edge source="CYS" target="CITICS" id="78" weight="2.56" />
+      <edge source="CYS" target="GFS" id="79" weight="2.58" />
+      <edge source="CYS" target="GIC" id="80" weight="1.7" />
+      <edge source="GIC" target="SXZ" id="81" weight="2.72" />
+      <edge source="GIC" target="CITICS" id="82" weight="3.04" />
+      <edge source="GIC" target="GYS" id="83" weight="2.68" />
+      <edge source="YXC" target="SXZ" id="84" weight="1.91" />
+      <edge source="YXC" target="HXG" id="85" weight="2.91" />
+      <edge source="YXC" target="CITICS" id="86" weight="1.61" />
+      <edge source="CMB" target="BOCOM" id="87" weight="4.45" />
+      <edge source="CMB" target="CMBC" id="88" weight="3.98" />
+      <edge source="CMB" target="SPDB" id="89" weight="4.34" />
+      <edge source="HXG" target="SXZ" id="90" weight="3.05" />
+      <edge source="HXG" target="XYR" id="91" weight="4.4" />
+      <edge source="HXG" target="CITICS" id="92" weight="2.43" />
+      <edge source="XYR" target="SXZ" id="93" weight="3.03" />
+      <edge source="XYR" target="CITICS" id="94" weight="2.02" />
+      <edge source="TPAC" target="SXZ" id="95" weight="4.54" />
+      <edge source="TPAC" target="CITICS" id="96" weight="3.29" />
+      <edge source="SWZ" target="SXZ" id="97" weight="2.77" />
+      <edge source="SWZ" target="CITICS" id="98" weight="2.97" />
+      <edge source="SWZ" target="CSC" id="99" weight="2.86" />
+      <edge source="DBS" target="SXZ" id="100" weight="3.06" />
+      <edge source="DBS" target="CITICS" id="101" weight="2.66" />
+      <edge source="DBS" target="GYS" id="102" weight="2.57" />
+      <edge source="SPDB" target="BOCOM" id="103" weight="4.71" />
+      <edge source="SPDB" target="CMBC" id="104" weight="5.1" />
+      <edge source="SPDB" target="ABC" id="105" weight="5.08" />
+      <edge source="CMBC" target="BOCOM" id="106" weight="6.01" />
+      <edge source="CMBC" target="ABC" id="107" weight="5.89" />
+      <edge source="CMBC" target="HXB" id="108" weight="3.89" />
+      <edge source="GFS" target="CITICS" id="109" weight="3.61" />
+      <edge source="GFS" target="CSC" id="110" weight="3.62" />
+      <edge source="GFS" target="SXZ" id="111" weight="2.71" />
+      <edge source="HXB" target="BOCOM" id="112" weight="4.24" />
+      <edge source="HXB" target="ABC" id="113" weight="3.9" />
+      <edge source="HXB" target="BJB" id="114" weight="4.22" />
+      <edge source="GYS" target="SXZ" id="115" weight="4.0" />
+      <edge source="GYS" target="CITICS" id="116" weight="3.86" />
+      <edge source="BJB" target="BOCOM" id="117" weight="4.45" />
+      <edge source="BJB" target="NBB" id="118" weight="2.98" />
+      <edge source="BJB" target="ABC" id="119" weight="4.49" />
+      <edge source="BJB" target="SXZ" id="120" weight="1.58" />
+      <edge source="BOCOM" target="ABC" id="121" weight="8.83" />
+      <edge source="BOCOM" target="NBB" id="122" weight="3.81" />
+      <edge source="NBB" target="SXZ" id="123" weight="1.31" />
+      <edge source="NBB" target="CITICS" id="124" weight="1.59" />
+      <edge source="NBB" target="ABC" id="125" weight="3.61" />
+      <edge source="CITICS" target="CSC" id="126" weight="7.44" />
+      <edge source="CITICS" target="SXZ" id="127" weight="6.31" />
+      <edge source="CSC" target="SXZ" id="128" weight="4.81" />
+    </edges>
+  </graph>
+</gexf>

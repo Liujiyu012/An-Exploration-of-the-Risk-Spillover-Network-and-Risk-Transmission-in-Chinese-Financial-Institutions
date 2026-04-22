@@ -1,0 +1,461 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-11-14">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="category" type="string" />
+      <attribute id="1" title="Louvain_community" type="long" />
+      <attribute id="2" title="Girvan-Newman_community" type="long" />
+    </attributes>
+    <nodes>
+      <node id="CMB" label="CMB">
+        <attvalues>
+          <attvalue for="0" value="银行" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="CSC" label="CSC">
+        <attvalues>
+          <attvalue for="0" value="券商" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="ECP" label="ECP">
+        <attvalues>
+          <attvalue for="0" value="券商" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="DFC" label="DFC">
+        <attvalues>
+          <attvalue for="0" value="券商" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="XYR" label="XYR">
+        <attvalues>
+          <attvalue for="0" value="券商" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="HCX" label="HCX">
+        <attvalues>
+          <attvalue for="0" value="券商" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="NJB" label="NJB">
+        <attvalues>
+          <attvalue for="0" value="未分类" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="GYS" label="GYS">
+        <attvalues>
+          <attvalue for="0" value="券商" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="SXZ" label="SXZ">
+        <attvalues>
+          <attvalue for="0" value="券商" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="XLF" label="XLF">
+        <attvalues>
+          <attvalue for="0" value="券商" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="SPDB" label="SPDB">
+        <attvalues>
+          <attvalue for="0" value="银行" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="YTG" label="YTG">
+        <attvalues>
+          <attvalue for="0" value="券商" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="PING" label="PING">
+        <attvalues>
+          <attvalue for="0" value="保险" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="HDS" label="HDS">
+        <attvalues>
+          <attvalue for="0" value="券商" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="COC" label="COC">
+        <attvalues>
+          <attvalue for="0" value="券商" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="CIB" label="CIB">
+        <attvalues>
+          <attvalue for="0" value="银行" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="JDI" label="JDI">
+        <attvalues>
+          <attvalue for="0" value="银行" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="NBB" label="NBB">
+        <attvalues>
+          <attvalue for="0" value="银行" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="SGXA" label="SGXA">
+        <attvalues>
+          <attvalue for="0" value="券商" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="YXC" label="YXC">
+        <attvalues>
+          <attvalue for="0" value="券商" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="XCF" label="XCF">
+        <attvalues>
+          <attvalue for="0" value="券商" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="CITICS" label="CITICS">
+        <attvalues>
+          <attvalue for="0" value="银行" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="HXG" label="HXG">
+        <attvalues>
+          <attvalue for="0" value="券商" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="SWZ" label="SWZ">
+        <attvalues>
+          <attvalue for="0" value="券商" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="BOCOM" label="BOCOM">
+        <attvalues>
+          <attvalue for="0" value="银行" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="ABC" label="ABC">
+        <attvalues>
+          <attvalue for="0" value="银行" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="PAB" label="PAB">
+        <attvalues>
+          <attvalue for="0" value="银行" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="JYT" label="JYT">
+        <attvalues>
+          <attvalue for="0" value="保险" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="ZDO" label="ZDO">
+        <attvalues>
+          <attvalue for="0" value="券商" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="CLC" label="CLC">
+        <attvalues>
+          <attvalue for="0" value="券商" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJG" label="AJG">
+        <attvalues>
+          <attvalue for="0" value="券商" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="GFS" label="GFS">
+        <attvalues>
+          <attvalue for="0" value="券商" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="CYS" label="CYS">
+        <attvalues>
+          <attvalue for="0" value="券商" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="GJS" label="GJS">
+        <attvalues>
+          <attvalue for="0" value="券商" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="GHS" label="GHS">
+        <attvalues>
+          <attvalue for="0" value="券商" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="MWC" label="MWC">
+        <attvalues>
+          <attvalue for="0" value="券商" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="HJC" label="HJC">
+        <attvalues>
+          <attvalue for="0" value="券商" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="HXB" label="HXB">
+        <attvalues>
+          <attvalue for="0" value="银行" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="JLG" label="JLG">
+        <attvalues>
+          <attvalue for="0" value="券商" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="DBS" label="DBS">
+        <attvalues>
+          <attvalue for="0" value="券商" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="CMBC" label="CMBC">
+        <attvalues>
+          <attvalue for="0" value="银行" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="XGD" label="XGD">
+        <attvalues>
+          <attvalue for="0" value="券商" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="GIC" label="GIC">
+        <attvalues>
+          <attvalue for="0" value="券商" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="BJB" label="BJB">
+        <attvalues>
+          <attvalue for="0" value="银行" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="TPAC" label="TPAC">
+        <attvalues>
+          <attvalue for="0" value="保险" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="CMB" target="BOCOM" id="0" weight="7.63" />
+      <edge source="CMB" target="PAB" id="1" weight="5.26" />
+      <edge source="CMB" target="CMBC" id="2" weight="5.08" />
+      <edge source="CMB" target="SPDB" id="3" weight="5.03" />
+      <edge source="CSC" target="CITICS" id="4" weight="8.23" />
+      <edge source="CSC" target="SXZ" id="5" weight="6.68" />
+      <edge source="ECP" target="SXZ" id="6" weight="2.24" />
+      <edge source="ECP" target="GIC" id="7" weight="1.16" />
+      <edge source="DFC" target="CITICS" id="8" weight="3.19" />
+      <edge source="DFC" target="XYR" id="9" weight="2.77" />
+      <edge source="DFC" target="HXG" id="10" weight="1.89" />
+      <edge source="XYR" target="YTG" id="11" weight="4.12" />
+      <edge source="XYR" target="SXZ" id="12" weight="4.1" />
+      <edge source="XYR" target="CITICS" id="13" weight="2.98" />
+      <edge source="HCX" target="SXZ" id="14" weight="1.95" />
+      <edge source="HCX" target="TPAC" id="15" weight="1.68" />
+      <edge source="HCX" target="GJS" id="16" weight="0.89" />
+      <edge source="NJB" target="NBB" id="17" weight="5.52" />
+      <edge source="NJB" target="BJB" id="18" weight="5.07" />
+      <edge source="NJB" target="SXZ" id="19" weight="4.76" />
+      <edge source="NJB" target="BOCOM" id="20" weight="4.08" />
+      <edge source="NJB" target="CITICS" id="21" weight="3.15" />
+      <edge source="GYS" target="ECP" id="22" weight="2.97" />
+      <edge source="GYS" target="SXZ" id="23" weight="6.98" />
+      <edge source="GYS" target="CITICS" id="24" weight="6.0" />
+      <edge source="GYS" target="GIC" id="25" weight="2.83" />
+      <edge source="XLF" target="CSC" id="26" weight="2.69" />
+      <edge source="XLF" target="SXZ" id="27" weight="2.28" />
+      <edge source="XLF" target="GFS" id="28" weight="1.53" />
+      <edge source="SPDB" target="BOCOM" id="29" weight="6.05" />
+      <edge source="SPDB" target="ABC" id="30" weight="5.47" />
+      <edge source="YTG" target="SXZ" id="31" weight="4.61" />
+      <edge source="YTG" target="CITICS" id="32" weight="3.76" />
+      <edge source="PING" target="ABC" id="33" weight="6.09" />
+      <edge source="PING" target="BOCOM" id="34" weight="3.11" />
+      <edge source="PING" target="NBB" id="35" weight="1.73" />
+      <edge source="HDS" target="XYR" id="36" weight="3.15" />
+      <edge source="HDS" target="SXZ" id="37" weight="1.91" />
+      <edge source="HDS" target="AJG" id="38" weight="1.48" />
+      <edge source="COC" target="SXZ" id="39" weight="4.14" />
+      <edge source="COC" target="YTG" id="40" weight="3.72" />
+      <edge source="COC" target="CLC" id="41" weight="4.96" />
+      <edge source="COC" target="MWC" id="42" weight="3.79" />
+      <edge source="CIB" target="PAB" id="43" weight="6.1" />
+      <edge source="CIB" target="BOCOM" id="44" weight="4.27" />
+      <edge source="CIB" target="CMBC" id="45" weight="3.62" />
+      <edge source="JDI" target="XYR" id="46" weight="1.27" />
+      <edge source="NBB" target="SXZ" id="47" weight="4.51" />
+      <edge source="NBB" target="BOCOM" id="48" weight="6.14" />
+      <edge source="NBB" target="CITICS" id="49" weight="4.11" />
+      <edge source="NBB" target="ABC" id="50" weight="3.66" />
+      <edge source="SGXA" target="XYR" id="51" weight="3.52" />
+      <edge source="SGXA" target="SXZ" id="52" weight="4.55" />
+      <edge source="SGXA" target="MWC" id="53" weight="5.77" />
+      <edge source="YXC" target="NJB" id="54" weight="4.73" />
+      <edge source="YXC" target="SXZ" id="55" weight="4.95" />
+      <edge source="YXC" target="CITICS" id="56" weight="3.27" />
+      <edge source="XCF" target="XYR" id="57" weight="3.57" />
+      <edge source="XCF" target="YTG" id="58" weight="2.62" />
+      <edge source="XCF" target="CITICS" id="59" weight="3.18" />
+      <edge source="CITICS" target="SXZ" id="60" weight="6.7" />
+      <edge source="HXG" target="XYR" id="61" weight="4.93" />
+      <edge source="HXG" target="SXZ" id="62" weight="5.36" />
+      <edge source="HXG" target="YXC" id="63" weight="3.39" />
+      <edge source="HXG" target="CITICS" id="64" weight="3.86" />
+      <edge source="SWZ" target="CSC" id="65" weight="5.4" />
+      <edge source="SWZ" target="SXZ" id="66" weight="7.37" />
+      <edge source="SWZ" target="CITICS" id="67" weight="5.45" />
+      <edge source="ABC" target="BOCOM" id="68" weight="11.33" />
+      <edge source="ABC" target="CMBC" id="69" weight="6.4" />
+      <edge source="PAB" target="BOCOM" id="70" weight="4.92" />
+      <edge source="JYT" target="SXZ" id="71" weight="0.77" />
+      <edge source="JYT" target="HXG" id="72" weight="0.62" />
+      <edge source="JYT" target="AJG" id="73" weight="1.04" />
+      <edge source="ZDO" target="XYR" id="74" weight="4.28" />
+      <edge source="ZDO" target="YTG" id="75" weight="1.8" />
+      <edge source="ZDO" target="HJC" id="76" weight="3.59" />
+      <edge source="CLC" target="XYR" id="77" weight="3.25" />
+      <edge source="CLC" target="YTG" id="78" weight="3.39" />
+      <edge source="CLC" target="JDI" id="79" weight="1.95" />
+      <edge source="AJG" target="XYR" id="80" weight="4.45" />
+      <edge source="AJG" target="SXZ" id="81" weight="3.77" />
+      <edge source="AJG" target="HXG" id="82" weight="3.34" />
+      <edge source="GFS" target="CSC" id="83" weight="6.09" />
+      <edge source="GFS" target="SXZ" id="84" weight="5.6" />
+      <edge source="GFS" target="CITICS" id="85" weight="6.54" />
+      <edge source="CYS" target="SXZ" id="86" weight="6.12" />
+      <edge source="CYS" target="CITICS" id="87" weight="5.37" />
+      <edge source="CYS" target="GFS" id="88" weight="3.19" />
+      <edge source="CYS" target="GIC" id="89" weight="2.54" />
+      <edge source="GJS" target="SXZ" id="90" weight="6.26" />
+      <edge source="GJS" target="CITICS" id="91" weight="5.66" />
+      <edge source="GJS" target="SWZ" id="92" weight="4.46" />
+      <edge source="GJS" target="TPAC" id="93" weight="4.22" />
+      <edge source="GHS" target="SXZ" id="94" weight="6.87" />
+      <edge source="GHS" target="YTG" id="95" weight="2.9" />
+      <edge source="GHS" target="CITICS" id="96" weight="4.49" />
+      <edge source="GHS" target="TPAC" id="97" weight="3.77" />
+      <edge source="MWC" target="XYR" id="98" weight="3.85" />
+      <edge source="MWC" target="SXZ" id="99" weight="3.72" />
+      <edge source="MWC" target="CLC" id="100" weight="4.98" />
+      <edge source="HJC" target="XYR" id="101" weight="3.56" />
+      <edge source="HJC" target="YTG" id="102" weight="3.34" />
+      <edge source="HJC" target="JDI" id="103" weight="1.7" />
+      <edge source="HJC" target="CLC" id="104" weight="2.92" />
+      <edge source="HXB" target="BOCOM" id="105" weight="7.23" />
+      <edge source="HXB" target="ABC" id="106" weight="5.89" />
+      <edge source="HXB" target="CMBC" id="107" weight="5.47" />
+      <edge source="HXB" target="BJB" id="108" weight="4.54" />
+      <edge source="JLG" target="CSC" id="109" weight="0.33" />
+      <edge source="JLG" target="SXZ" id="110" weight="0.39" />
+      <edge source="JLG" target="SWZ" id="111" weight="3.77" />
+      <edge source="DBS" target="GYS" id="112" weight="3.54" />
+      <edge source="DBS" target="SXZ" id="113" weight="6.81" />
+      <edge source="DBS" target="CITICS" id="114" weight="5.85" />
+      <edge source="CMBC" target="SPDB" id="115" weight="5.9" />
+      <edge source="CMBC" target="BOCOM" id="116" weight="7.58" />
+      <edge source="CMBC" target="PAB" id="117" weight="5.16" />
+      <edge source="XGD" target="SXZ" id="118" weight="2.23" />
+      <edge source="XGD" target="YXC" id="119" weight="1.26" />
+      <edge source="XGD" target="HXG" id="120" weight="2.44" />
+      <edge source="GIC" target="SXZ" id="121" weight="5.37" />
+      <edge source="GIC" target="CITICS" id="122" weight="4.85" />
+      <edge source="BJB" target="SXZ" id="123" weight="3.72" />
+      <edge source="BJB" target="NBB" id="124" weight="6.29" />
+      <edge source="BJB" target="BOCOM" id="125" weight="6.37" />
+      <edge source="BJB" target="ABC" id="126" weight="5.59" />
+      <edge source="TPAC" target="SXZ" id="127" weight="7.67" />
+      <edge source="TPAC" target="CITICS" id="128" weight="5.24" />
+    </edges>
+  </graph>
+</gexf>

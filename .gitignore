@@ -1,0 +1,22 @@
+# R 语言临时文件
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# LaTeX 编译垃圾文件 (如果你用 LaTeX 写论文)
+*.aux
+*.log
+*.toc
+*.pdf
+*.gz
+*.out
+
+# 数据文件 (建议忽略超过 50MB 的原始数据)
+*.csv
+*.xlsx
+*.rds
+
+# 系统文件
+.DS_Store
+
